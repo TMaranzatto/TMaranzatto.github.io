@@ -25,11 +25,9 @@ author:
   # Biographic information
   avatar           : "Headshot.jpg"
   name             : "Jake Maranzatto"
-  pronouns         : # example: "she/her"  
-  bio              : "Networks, Machine Learning, Information"
+  bio              : "Postdoc @ UMD ECE"
   employer         : "University of Maryland"
   location         : "College Park"
-  uri              : # URL
   email            : "tmaran@umd.edu" 
 
   # Academic websites
