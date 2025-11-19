@@ -10,6 +10,6 @@ slidesurl:
 paperurl: 'https://tmaranzatto.github.io/files/PIR-capacity.pdf'
 bibtexurl: 'https://tmaranzatto.github.io/files/PIR-capacity.bib'
 citation: 'Use the provided bibtex until Journal is finalized'
-
 ---
+<iframe src="https://tmaranzatto.github.io/files/PIR-capacity.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
