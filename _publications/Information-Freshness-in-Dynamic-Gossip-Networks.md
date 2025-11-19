@@ -11,6 +11,7 @@ paperurl: 'https://tmaranzatto.github.io/files/dynamic-fresh.pdf'
 bibtexurl: 'https://tmaranzatto.github.io/files/dynamic-fresh.bib'
 citation: 'use the provided bibtex until conference proceedings are released'
 ---
+<iframe src="https://tmaranzatto.github.io/files/dynamic-fresh.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
 
