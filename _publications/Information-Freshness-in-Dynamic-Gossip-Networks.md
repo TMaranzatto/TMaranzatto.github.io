@@ -1,5 +1,4 @@
 ---
-
 title: "Information Freshness in Dynamic Gossip Networks"
 collection: publications
 category: conferences
@@ -12,5 +11,6 @@ paperurl: 'https://tmaranzatto.github.io/files/dynamic-fresh.pdf'
 bibtexurl: 'https://tmaranzatto.github.io/files/dynamic-fresh.bib'
 citation: 'use the provided bibtex until conference proceedings are released'
 ---
+
 
 
