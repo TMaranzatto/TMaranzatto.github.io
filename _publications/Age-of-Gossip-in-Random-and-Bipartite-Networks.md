@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2024-06-07-age-random
 
-excerpt: 'I study the age in unbalanced complete bipartite graphs, random regular graphs, and the erdos reyni graph.  I prove a key technical lemma that the vAoI with Yates's weights is monotone under adding edges'
+excerpt: 'I study the age of information in unbalanced complete bipartite graphs, random regular graphs, and the Erdos-Reyni graph.  I prove a technical lemma that the vAoI with Yates's weights is monotone under adding edges.'
 
 date: 2024-06-07
 
