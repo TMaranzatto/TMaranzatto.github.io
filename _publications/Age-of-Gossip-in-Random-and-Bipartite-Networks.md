@@ -1,12 +1,12 @@
 ---
 
-title: "Tree Trace Reconstruction - Reductions to String Trace Reconstruction"
+title: "Age of Gossip in Random and Bipartite Networks"
 
 collection: publications
 
 category: conferences
 
-permalink: /publication/2024-06-07-tree-traces
+permalink: /publication/2024-06-07-age-random
 
 excerpt: 'I study the sample complexity of tree reconstruction under the TED deletion channel, and show it is the same up to a polynomial factor as the classical string reconstruction problem.  I also provide some combinatorial identities for the deletion channel.'
 
@@ -25,5 +25,6 @@ citation: 'T. J. Maranzatto, "Tree Trace Reconstruction - Reductions to String T
 ---
 
 <iframe src="https://tmaranzatto.github.io/files/tree-traces.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+
 
 
