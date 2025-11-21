@@ -12,7 +12,7 @@ excerpt: 'Investigated how data can rapidly lose quality in gossip networks.  Jo
 
 date: 2025-06-22
 
-venue: 'International Symposium on Information Theory (ISIT) 2025'
+venue: 'International Symposium on Information Theory (ISIT)'
 
 slidesurl: 'https://tmaranzatto.github.io/files/degradation-slides.pdf'
 
@@ -25,4 +25,5 @@ citation: 'T. J. Maranzatto, A. Srivastava and S. Ulukus, "Information Degradati
 ---
 
 <iframe src="https://tmaranzatto.github.io/files/degradation.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+
 
