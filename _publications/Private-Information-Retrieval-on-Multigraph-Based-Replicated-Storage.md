@@ -12,7 +12,7 @@ excerpt: 'Developed new upper and lower bounds for (multi)graph based private in
 
 date: 2025-06-22
 
-venue: 'International Symposium on Information Theory (ISIT) 2025'
+venue: 'International Symposium on Information Theory (ISIT)'
 
 slidesurl:
 
@@ -25,4 +25,5 @@ citation: 'S. Meel, X. Kong, T. J. Maranzatto, I. Tamo and S. Ulukus, "Private I
 ---
 
 <iframe src="https://tmaranzatto.github.io/files/PIR-capacity.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+
 
