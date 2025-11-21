@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2024-06-07-age-random
 
-excerpt: 'My first paper on AoI.  I study the age in unbalanced complete bipartite graphs, random regular graphs, and the erdos reyni graph.  I prove a key technical lemma that the vAoI with Yates's weights is monotone under adding edges'
+excerpt: 'I study the age in unbalanced complete bipartite graphs, random regular graphs, and the erdos reyni graph.  I prove a key technical lemma that the vAoI with Yates's weights is monotone under adding edges'
 
 date: 2024-06-07
 
@@ -25,4 +25,5 @@ citation: 'T. J. Maranzatto, "Age of Gossip in Random and Bipartite Networks," 2
 ---
 
 <iframe src="https://tmaranzatto.github.io/files/age-random.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+
 
