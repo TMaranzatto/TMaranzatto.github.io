@@ -12,7 +12,7 @@ excerpt: 'Studied age in Poissonian gossip networks when the underlying network 
 
 date: 2025-06-22
 
-venue: 'International Symposium on Information Theory (ISIT) 2025'
+venue: 'International Symposium on Information Theory (ISIT)'
 
 slidesurl:
 
@@ -25,4 +25,5 @@ citation: 'A. Srivastava, T. J. Maranzatto and S. Ulukus, "Age of Gossip with Ti
 ---
 
 <iframe src="https://tmaranzatto.github.io/files/time-varying.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+
 
