@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2024-06-07-age-random
 
-excerpt: 'I study the sample complexity of tree reconstruction under the TED deletion channel, and show it is the same up to a polynomial factor as the classical string reconstruction problem.  I also provide some combinatorial identities for the deletion channel.'
+excerpt: 'I study the age of information in unbalanced complete bipartite graphs, random regular graphs, and the Erdos-Reyni graph.  I prove a technical lemma that the vAoI with Yates's weights is monotone under adding edges.'
 
 date: 2024-06-07
 
@@ -25,6 +25,7 @@ citation: 'T. J. Maranzatto, "Tree Trace Reconstruction - Reductions to String T
 ---
 
 <iframe src="https://tmaranzatto.github.io/files/tree-traces.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+
 
 
 
