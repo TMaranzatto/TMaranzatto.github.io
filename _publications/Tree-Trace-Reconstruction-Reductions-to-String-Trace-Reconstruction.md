@@ -12,7 +12,7 @@ excerpt: 'I study the sample complexity of tree reconstruction under the TED del
 
 date: 2024-06-07
 
-venue: 'International Symposium on Information Theory (ISIT) 2024'
+venue: 'International Symposium on Information Theory (ISIT)'
 
 slidesurl: 'https://tmaranzatto.github.io/files/tree-traces-slides.pdf'
 
@@ -25,4 +25,5 @@ citation: 'T. J. Maranzatto, "Tree Trace Reconstruction - Reductions to String T
 ---
 
 <iframe src="https://tmaranzatto.github.io/files/tree-traces.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+
 
