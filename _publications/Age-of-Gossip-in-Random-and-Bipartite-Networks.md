@@ -1,6 +1,6 @@
 ---
 
-title: "Age of Gossip in Random and Bipartite Networks"
+title: ""
 
 collection: publications
 
@@ -25,5 +25,6 @@ citation: 'T. J. Maranzatto, "Age of Gossip in Random and Bipartite Networks," 2
 ---
 
 <iframe src="https://tmaranzatto.github.io/files/age-random.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+
 
 
