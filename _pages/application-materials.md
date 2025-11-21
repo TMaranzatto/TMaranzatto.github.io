@@ -12,8 +12,8 @@ Here are links to selected papers that highlight my recent research focus:
 
 -[Age of Gossip from Connective Properties via First Passage Percolation](https://tmaranzatto.github.io/publication/2025-09-24-connective)
 
--[Deriving Moments in the Age of Gossip Process from Percolation](https://tmaranzatto.github.io/publication/2025-09-17-deriving-moments)
-
 -[Age of Gossip in Random and Bipartite Networks](https://tmaranzatto.github.io/publication/2024-06-07-age-random)
 
 -[Tree Trace Reconstruction - Reductions to String Trace Reconstruction](https://tmaranzatto.github.io/publication/2024-06-07-tree-traces)
+
+-[Deriving Moments in the Age of Gossip Process from Percolation (Preprint)](https://tmaranzatto.github.io/publication/2025-09-17-deriving-moments)
