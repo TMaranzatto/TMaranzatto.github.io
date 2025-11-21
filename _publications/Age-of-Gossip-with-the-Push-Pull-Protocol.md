@@ -12,7 +12,7 @@ excerpt: 'We study the positive benefit of allowing nodes in a gossip network to
 
 date: 2025-04-06
 
-venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025'
+venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 
 slidesurl: 
 
@@ -25,4 +25,5 @@ citation: 'A. Srivastava, T. J. Maranzatto and S. Ulukus, "Age of Gossip with th
 ---
 
 <iframe src="https://tmaranzatto.github.io/files/push-pull.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+
 
