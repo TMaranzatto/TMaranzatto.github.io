@@ -11,7 +11,7 @@ excerpt: 'This paper finds asymptotic scaling of AoI in a dynamic network switch
 
 date: 2025-09-29
 
-venue: 'Information Theory Workshop 2025'
+venue: 'Information Theory Workshop'
 
 slidesurl: 'https://tmaranzatto.github.io/files/dynamic-fresh.pdf'
 
@@ -25,3 +25,4 @@ Networks," Accepted ITW 2025. https://arxiv.org/abs/2504.18504'
 
 
 <iframe src="https://tmaranzatto.github.io/files/dynamic-fresh.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
