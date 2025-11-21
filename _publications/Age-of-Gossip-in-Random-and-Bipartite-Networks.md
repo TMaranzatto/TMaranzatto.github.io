@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2024-06-07-age-random
 
-excerpt: ''
+excerpt: 'I study the age of information in unbalanced complete bipartite graphs, random regular graphs, and the Erdos-Reyni graph.  I prove a technical lemma that the vAoI with equal push rate to neighbors is monotone under adding edges.'
 
 date: 2024-06-07
 
@@ -25,6 +25,7 @@ citation: 'T. J. Maranzatto, "Age of Gossip in Random and Bipartite Networks," 2
 ---
 
 <iframe src="https://tmaranzatto.github.io/files/age-random.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
 
 
 
