@@ -12,7 +12,7 @@ excerpt: 'We study an online learning problem on graphs, meant to model a recomm
 
 date: 2023-09-26
 
-venue: 'Allerton Conference on Communication, Control, and Computing (Allerton) 2023'
+venue: 'Allerton Conference on Communication, Control, and Computing (Allerton)'
 
 slidesurl: 'https://tmaranzatto.github.io/files/unified-dynamic-slides.pdf'
 
@@ -25,4 +25,5 @@ citation: 'X. Gao, T. J. Maranzatto and L. Reyzin, "A Unified Analysis of Dynami
 ---
 
 <iframe src="https://tmaranzatto.github.io/files/unified-dynamic.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+
 
