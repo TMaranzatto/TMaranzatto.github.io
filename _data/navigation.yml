@@ -23,6 +23,9 @@ main:
     
   - title: "Vita"
     url: /cv/
+
+  - title: "Thesis"
+    url: /thesis/
     
   # - title: "CV"
   #   url: /cv-json/
