@@ -2,7 +2,7 @@
 permalink: /application-materials/
 title: "Application Materials"
 ---
-**I am on the tenure track job market! The standard application materials are below:
+**I am on the tenure track job market!** The standard application materials are below:
 
 - [CV](/files/CV.pdf)
 - [Research Statement](/files/research-statement.pdf)
