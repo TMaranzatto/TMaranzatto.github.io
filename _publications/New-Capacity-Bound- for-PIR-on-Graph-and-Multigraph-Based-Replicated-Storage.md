@@ -12,6 +12,6 @@ bibtexurl: 'https://tmaranzatto.github.io/files/PIR-capacity.bib'
 citation: 'S. Meel, X. Kong, T. J. Maranzatto, I. Tamo, and S. Ulukus. "New Capacity Bounds for PIR on Graph and Multigraph-Based Replicated Storage," Accepted under revision, IEEE Transactions on Information Theory 2025.'
 ---
 
-<iframe src="https://tmaranzatto.github.io/files/PIR-capacity.pdf" width="100%" height="500"></iframe> 
+<iframe src="https://tmaranzatto.github.io/files/PIR-capacity.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
 
 
