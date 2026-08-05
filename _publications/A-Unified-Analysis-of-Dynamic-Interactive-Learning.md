@@ -24,7 +24,7 @@ citation: 'X. Gao, T. J. Maranzatto and L. Reyzin, "A Unified Analysis of Dynami
 
 ---
 
-<iframe src="http://docs.google.com/gview?url=${https://tmaranzatto.github.io/files/unified-dynamic.pdf}&embedded=true" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+<iframe src="http://docs.google.com/gview?url=https://tmaranzatto.github.io/files/unified-dynamic.pdf&embedded=true" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
 
 
 
