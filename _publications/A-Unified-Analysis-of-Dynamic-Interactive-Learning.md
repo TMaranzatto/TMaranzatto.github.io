@@ -23,9 +23,8 @@ bibtexurl: 'https://tmaranzatto.github.io/files/unified-dynamic.bib'
 citation: 'X. Gao, T. J. Maranzatto and L. Reyzin, "A Unified Analysis of Dynamic Interactive Learning," 2023 59th Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, USA, 2023, pp. 1-8, doi: 10.1109/Allerton58177.2023.10313487.'
 
 ---
-<div style="overflow: auto; -webkit-overflow-scrolling: touch; width: 100%; height: 600px;">
-    <iframe src="https://tmaranzatto.github.io/files/unified-dynamic.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
-</div>
+
+<iframe src="http://docs.google.com/gview?url=${https://tmaranzatto.github.io/files/unified-dynamic.pdf}&embedded=true" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
 
 
 
