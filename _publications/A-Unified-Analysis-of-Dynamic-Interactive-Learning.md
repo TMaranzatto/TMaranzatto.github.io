@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2023-09-26-unified-dynamic
 
-excerpt: 'We study an online learning problem on graphs, meant to model a recommender system.  Joint with Xing Gao and Lev Reyzin.'
+excerpt:
 
 date: 2023-09-26
 
