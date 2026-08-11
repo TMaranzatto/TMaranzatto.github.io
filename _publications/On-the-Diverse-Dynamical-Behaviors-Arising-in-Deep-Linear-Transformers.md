@@ -2,7 +2,7 @@
 
 title: "On the Diverse Dynamical Behaviors Arising in Deep Linear Transformers"
 collection: publications
-category: preprint
+category: preprints
 permalink: /publication/2025-11-18-diverse-dynamical
 excerpt: 'Joint with Sixu Li, Jan Peszek, Trevor Teolis, Semih Akkoc, Konstantin Riedl, Sennur Ulukus, and Nicolas Garcia Trillos.'
 date: 2026-07-11
