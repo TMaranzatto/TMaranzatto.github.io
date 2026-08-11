@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2023-09-26-unified-dynamic
 
-excerpt:
+excerpt: ''
 
 date: 2023-09-26
 
