@@ -4,7 +4,7 @@ title: "Deriving Moments in the Age of Gossip Process from Percolation"
 
 collection: publications
 
-category: preprints
+category: conferences
 
 permalink: /publication/2025-09-17-deriving-moments
 
