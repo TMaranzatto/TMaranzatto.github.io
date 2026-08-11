@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2025-06-22-degradation
 
-excerpt: 'Investigated how data can rapidly lose quality in gossip networks.  Joint with Arunabh Srivastava and Sennur Ulukus.'
+excerpt: ''
 
 date: 2025-06-22
 
