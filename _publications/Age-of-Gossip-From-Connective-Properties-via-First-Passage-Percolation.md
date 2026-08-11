@@ -4,7 +4,7 @@ title: "Age of Gossip From Connective Properties via First Passage Percolation"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-24-connective
-excerpt: 'This paper connects AoI in Poisson gossip networks to FPP.  A number of open problems are resolved. Joint with Marcus Michelen.'
+excerpt: ''
 date: 2025-09-24
 venue: 'IEEE Transactions on Information Theory'
 slidesurl: ''
