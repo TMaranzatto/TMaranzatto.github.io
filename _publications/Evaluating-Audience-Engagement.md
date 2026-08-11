@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2020-05-17-stage
 
-excerpt: 'Completed at the RIT REU on Computational Sensing.  Joint with Victoria Kraj, Joe Geigel, Reynold Bailey and Cecilia Ovesdotter Alm.'
+excerpt: ''
 
 date: 2020-05-17
 
