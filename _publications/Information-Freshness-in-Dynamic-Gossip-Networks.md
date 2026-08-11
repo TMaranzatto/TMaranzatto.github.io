@@ -11,7 +11,7 @@ excerpt: ''
 
 date: 2025-09-29
 
-venue: 'Information Theory Workshop'
+venue: 'IEEE Information Theory Workshop (ITW)'
 
 slidesurl: 'https://tmaranzatto.github.io/files/dynamic-fresh.pdf'
 
@@ -19,8 +19,7 @@ paperurl: 'https://tmaranzatto.github.io/files/dynamic-fresh.pdf'
 
 bibtexurl: 'https://tmaranzatto.github.io/files/dynamic-fresh.bib'
 
-citation: 'A. Srivastava, T. J. Maranzatto, S. Ulukus. "Information Freshness in Dynamic Gossip
-Networks," Accepted ITW 2025. https://arxiv.org/abs/2504.18504'
+citation: 'Arunabh Srivastava, Thomas Maranzatto, Sennur Ulukus. “Information Freshness in Dynamic Gossip Networks,” IEEE Information Theory Workshop (ITW), Sydney, Australia, 2025, pp. 1-6, doi: 10.1109/ITW62417.2025.11240391.'
 ---
 
 
