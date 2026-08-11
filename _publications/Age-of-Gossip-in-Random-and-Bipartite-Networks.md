@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2024-06-07-age-random
 
-excerpt: 'I study the age of information in unbalanced complete bipartite graphs, random regular graphs, and the Erdos-Reyni graph.  I prove a technical lemma that the vAoI with equal push rate to neighbors is monotone under adding edges.'
+excerpt: ''
 
 date: 2024-06-07
 
