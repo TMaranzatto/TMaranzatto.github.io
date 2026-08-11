@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2025-06-22-PIR-multi
 
-excerpt: 'Developed new upper and lower bounds for (multi)graph based private information retrieval.  The provided PDF is for the final journal version, which is a superset of the results proved here. Joint with Shreya Meel, Xiangliang Kong, Itzhak Tamo, and Sennur Ulukus'
+excerpt: ''
 
 date: 2025-06-22
 
