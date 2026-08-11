@@ -8,7 +8,7 @@ excerpt: 'Joint with Sixu Li, Jan Peszek, Trevor Teolis, Semih Akkoc, Konstantin
 date: 2026-07-11
 venue: 'In Submissin'
 slidesurl: 
-paperurl: 'https://tmaranzatto.github.io/files/diverse-dynamics.pdf'
+paperurl: 'https://tmaranzatto.github.io/files/diverse-dyanmics.pdf'
 bibtexurl: 'https://tmaranzatto.github.io/files/diverse-dynamics.bib'
 citation: 'Sixu Li, Thomas Maranzatto, Jan Peszek, Trevor Teolis, Semih Akkoc, Konstantin Riedl, Sennur Ulukus, Nicolas Garciaa Trillos. “On the Diverse Dynamical Behaviors Arising in Deep Linear Transformers”. arXiv preprint, 2026, https://arxiv.org/abs/2607.18584v1'
 
