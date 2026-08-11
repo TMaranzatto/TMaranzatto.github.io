@@ -3,7 +3,7 @@ title: "New Capacity Bounds for PIR on Graph and Multigraph-Based Replicated Sto
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-18-PIR-capacity
-excerpt: 'Developed new upper and lower bounds for (Multi) graph based private information retrieval.  Builds on our earlier work published in ISIT. Joint with Shreya Meel, Xiangliang Kong, Itzhak Tamo, and Sennur Ulukus'
+excerpt: ''
 date: 2025-11-18
 venue: 'IEEE Transactions on Information Theory (Accepted in Revision)'
 slidesurl: 
