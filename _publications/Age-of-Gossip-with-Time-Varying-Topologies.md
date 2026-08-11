@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2025-06-22-time-varying
 
-excerpt: 'Studied age in Poissonian gossip networks when the underlying network can vary with time.  The switching is governed by a CTMC, and one of the states is required to be the complete graph.  Joint with Arunabh Srivastava and Sennur Ulukus.'
+excerpt: ''
 
 date: 2025-06-22
 
