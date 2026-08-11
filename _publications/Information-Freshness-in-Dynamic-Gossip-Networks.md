@@ -7,7 +7,7 @@ category: conferences
 
 permalink: /publication/2025-04-25-dynamic-fresh
 
-excerpt: 'This paper finds asymptotic scaling of AoI in a dynamic network switching between two arbitrary topolgies.  Joint with Arunabh Srivastava and Sennur Ulukus.'
+excerpt: ''
 
 date: 2025-09-29
 
