@@ -8,8 +8,7 @@ category: conferences
 
 permalink: /publication/2024-06-07-tree-traces
 
-excerpt: 'I study the sample complexity of tree reconstruction under the TED deletion channel, and show it is the same up to a polynomial factor as the classical string reconstruction problem.  I also provide some combinatorial identities for the deletion channel.'
-
+excerpt: ''
 date: 2024-06-07
 
 venue: 'International Symposium on Information Theory (ISIT)'
