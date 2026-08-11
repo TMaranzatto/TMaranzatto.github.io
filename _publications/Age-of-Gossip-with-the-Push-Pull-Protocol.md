@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2025-04-06-push-pull
 
-excerpt: 'We study the positive benefit of allowing nodes in a gossip network to actively pull data from their neighbors, instead of passively waiting for data to arrive.  Join with Arunabh Srivastava and Sennur Ulukus.'
+excerpt: ''
 
 date: 2025-04-06
 
