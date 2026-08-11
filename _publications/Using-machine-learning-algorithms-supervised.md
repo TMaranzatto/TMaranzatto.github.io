@@ -8,7 +8,7 @@ category: conferences
 
 permalink: /publication/2023-05-08-dating
 
-excerpt: 'Used ML to classify and label text messages as abusive or nonabusive. My contributions were completed as an undergraduate student.  Joint with Tania Roy and Zachary Loomas'
+excerpt: ''
 
 date: 2023-05-08
 
