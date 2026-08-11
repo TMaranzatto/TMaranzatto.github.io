@@ -20,7 +20,7 @@ paperurl: 'https://tmaranzatto.github.io/files/deriving-moments.pdf'
 
 bibtexurl: 'https://tmaranzatto.github.io/files/deriving-moments.bib'
 
-citation: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona,
+citation: 'T. J. Maranzatto and Sennur Ulukus.  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona,
 Spain, 2026, pp. 21651-21655, doi: 10.1109/ICASSP55912.2026.11463463.'
 
 ---
