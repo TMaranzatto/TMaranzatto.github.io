@@ -15,4 +15,6 @@ My current appointment is in [Sennur Ulukus's](https://user.eng.umd.edu/~ulukus/
 
 ---
 
-| ![](https://tmaranzatto.github.io/files/converge_1.gif) | ![](https://tmaranzatto.github.io/files/no_converge_1.gif) |
+![](https://tmaranzatto.github.io/files/converge_1.gif) 
+
+![](https://tmaranzatto.github.io/files/no_converge_1.gif)
