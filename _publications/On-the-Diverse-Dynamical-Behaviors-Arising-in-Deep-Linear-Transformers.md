@@ -14,5 +14,5 @@ citation: 'Sixu Li, Thomas Maranzatto, Jan Peszek, Trevor Teolis, Semih Akkoc, K
 
 ---
 
-<iframe src="https://tmaranzatto.github.io/files/diverse-dynamics.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+<iframe src="https://tmaranzatto.github.io/files/diverse-dyanmics.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
 
