@@ -16,14 +16,14 @@ venue: 'IEEE Transactions on Information Theory (Accepted)'
 
 slidesurl: ''
 
-paperurl: ''
+paperurl: 'https://tmaranzatto.github.io/files/scalability-and-freshness.pdf'
 
-bibtexurl: ''
+bibtexurl: 'https://tmaranzatto.github.io/files/scalability-and-freshness.bib'
 
 citation: 'To be updated once fully accepted..'
 
 ---
 
-<iframe src="https://xxx.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
+<iframe src="https://tmaranzatto.github.io/files/scalability-and-freshness.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> 
 
 
