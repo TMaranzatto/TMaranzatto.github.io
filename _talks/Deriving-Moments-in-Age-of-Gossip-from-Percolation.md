@@ -10,7 +10,7 @@ permalink: /publication/2026-059-05-deriving-moments-talk
 
 venue: '2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)'
 
-date: 2026-059-05
+date: 2026-09-05
 
 location: "Barcelona, Spain"
 
