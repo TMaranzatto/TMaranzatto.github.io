@@ -14,7 +14,7 @@ My current appointment is in [Sennur Ulukus's](https://user.eng.umd.edu/~ulukus/
 **Thomas vs. Jake**: My legal name is Thomas and I use this as my primary identifier in my papers.  However in social settings I go by my middle name Jacob/ Jake.  
 
 ---
-
+<p align="center">Some visualizations from my recent work on LLM token dynamics in dimension 2.</p>
 ![](https://tmaranzatto.github.io/files/converge_1.gif) 
 
 ![](https://tmaranzatto.github.io/files/no_converge_1.gif)
