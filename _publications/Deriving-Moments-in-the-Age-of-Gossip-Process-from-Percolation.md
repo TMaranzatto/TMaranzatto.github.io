@@ -10,9 +10,9 @@ permalink: /publication/2025-09-17-deriving-moments
 
 excerpt: ''
 
-date: 2025-09-17
+date: 2026-09-17
 
-venue: 'ICASSP 2026'
+venue: 'ICASSP'
 
 slidesurl: 
 
